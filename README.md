@@ -1,1 +1,1 @@
-# PINN_Monge_Amp-re
+# PINN_Monge_Ampère
