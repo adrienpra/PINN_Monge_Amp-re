@@ -18,6 +18,9 @@ Based on DeepXDE library with Tensorflow backend for the implementation, the PIN
 - Lu Lu, Xuhui Meng, Zhiping Mao, George Em Karniadakis. DeepXDE: A Deep Learning Library for Solving Differential Equations. 2021
 <br />
 
+<img width="545" alt="PINN_architecture" src="https://user-images.githubusercontent.com/101275776/219594515-31a56fa6-84f4-4925-b016-ffa1d8536c69.png">
+<br />
+
 The notebooks are structured as follow:
 
 - Set Objective
